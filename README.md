@@ -4,7 +4,7 @@
 
 Backend-focused developer building web applications with **Elixir, Phoenix, LiveView and PostgreSQL**.
 
-I also work with **Docker, Linux, GitHub Actions and deployment**, and build product-oriented projects alongside my backend development studies.
+I also work with **Docker, Linux, GitHub Actions and deployment**, and build product-oriented projects while continuing to deepen my backend development skills.
 
 ## Projects
 
