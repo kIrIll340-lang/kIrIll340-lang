@@ -6,27 +6,6 @@ Backend-focused developer building real web applications with **Elixir, Phoenix,
 
 I work on several private product projects and have experience with Docker, Linux, GitHub Actions, deployment and maintaining web applications.
 
-## Tech Stack
-
-**Backend**
-- Elixir
-- Phoenix
-- Phoenix LiveView
-- PostgreSQL
-
-**Web**
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Next.js
-
-**Tools**
-- Git / GitHub
-- Docker
-- Linux
-- GitHub Actions
-
 ## Projects
 
 ### Stroyvia
@@ -52,9 +31,7 @@ Built with **Next.js and TypeScript**.
 The project combines web development with my previous professional experience in electrical and low-voltage systems.
 
 ### MeClose
-Private collaborative web project.
-
-Built with **Elixir / Phoenix, PostgreSQL and Rust-based services**.
+Private collaborative web project built with **Elixir / Phoenix, PostgreSQL and Rust-based services**.
 
 Developed as part of a team.
 
@@ -63,29 +40,20 @@ Completed website for an electrical installation company.
 
 Built with **HTML, CSS, JavaScript and PHP**.
 
+## Tech Stack
+
+**Backend:** Elixir · Phoenix · LiveView · PostgreSQL
+
+**Web:** HTML · CSS · JavaScript · TypeScript · Next.js
+
+**Tools:** Git · GitHub · Docker · Linux · GitHub Actions
+
 ## Background
 
 Before moving into software development, I worked for about four years with electrical and low-voltage systems, including access control and fire alarm systems.
-
-This experience is also useful in projects related to construction and electrical engineering.
 
 ## Currently
 
 - Building and improving real product projects
 - Developing backend and web development skills
 - Open to **Junior / Trainee Backend and Web Developer** opportunities
-
-<!--
-**kIrIll340-lang/kIrIll340-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
